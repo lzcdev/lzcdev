@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lzcdev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 I’m **Zhichao Lu**, you can call me **Evan**, a web developer from Weifang, China.
 - :orange_book: Focusing on Web/Vue/iOS
@@ -14,9 +14,10 @@ I’m **Zhichao Lu**, you can call me **Evan**, a web developer from Weifang, Ch
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
 - :hammer: A little bit:
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%232183C0)
-
- 
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-%232183C0)
 - ⚡ Hobbies: Sports/Cooking/Film
 - :film_strip: Favorite AC:Death Note
+
+[![Evan's github stats](https://github-readme-stats.vercel.app/api?username=lzcdev&theme=dark&show_icons=true)](https://github.com/lzcdev)
+
