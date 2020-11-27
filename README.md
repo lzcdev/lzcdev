@@ -17,7 +17,7 @@ I’m **Zhichao Lu**, you can call me **Evan**, a web developer from Weifang, Ch
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-%232183C0)
 - ⚡ Hobbies: Sports/Cooking/Film
-- :film_strip: Favorite AC:Death Note
+- :film_strip: Favorite AC:[Death Note](https://en.wikipedia.org/wiki/Death_Note)
 
 [![Evan's github stats](https://github-readme-stats.vercel.app/api?username=lzcdev&theme=dark&show_icons=true)](https://github.com/lzcdev)
 
