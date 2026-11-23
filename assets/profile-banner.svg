@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">lzcdev — Agent engineering and full-stack development</title>
+  <desc id="desc">A navy banner with mint and blue accents. Build, verify, improve. Agent engineering, retrieval, full-stack.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0b1423"/>
+      <stop offset="1" stop-color="#14283c"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#6ee7ca"/>
+      <stop offset="1" stop-color="#83b8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#91b9d1" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="48" y="43" width="26" height="4" rx="2" fill="#6ee7ca"/>
+  <text x="86" y="50" fill="#a6b8cc" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">BUILD / VERIFY / IMPROVE</text>
+  <text x="48" y="145" fill="#f1f6fc" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">lzcdev<tspan fill="#6ee7ca">.</tspan></text>
+  <text x="51" y="189" fill="#b7c8d9" font-family="Arial, Helvetica, sans-serif" font-size="21">Agent engineering. Retrieval. Full-stack.</text>
+  <rect x="50" y="226" width="298" height="1" fill="url(#accent)"/>
+  <text x="51" y="258" fill="#91a6ba" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">HANGZHOU, CHINA / OPEN SOURCE</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M 804 146 H 857 Q 875 146 875 128 V 91 Q 875 73 893 73 H 932"/>
+    <path d="M 804 146 H 932"/>
+    <path d="M 804 146 H 857 Q 875 146 875 164 V 201 Q 875 219 893 219 H 932"/>
+  </g>
+  <rect x="690" y="121" width="114" height="50" rx="10" fill="#142e3c" stroke="#6ee7ca" stroke-opacity=".7"/>
+  <text x="747" y="151" text-anchor="middle" fill="#9bf0d9" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1">ENGINEER</text>
+  <g fill="#132438" stroke="#83b8ff" stroke-opacity=".4">
+    <rect x="932" y="49" width="180" height="48" rx="10"/>
+    <rect x="932" y="122" width="180" height="48" rx="10"/>
+    <rect x="932" y="195" width="180" height="48" rx="10"/>
+  </g>
+  <g fill="#d6e7f7" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1">
+    <text x="954" y="78">AGENTS</text>
+    <text x="954" y="151">RETRIEVAL</text>
+    <text x="954" y="224">APPLICATIONS</text>
+  </g>
+  <g fill="#6ee7ca">
+    <circle cx="1090" cy="73" r="3"/>
+    <circle cx="1090" cy="146" r="3"/>
+    <circle cx="1090" cy="219" r="3"/>
+  </g>
+</svg>
